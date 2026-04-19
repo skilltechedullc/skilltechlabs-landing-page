@@ -1,0 +1,54 @@
+# Skilltech Labs
+
+> Skilltech Labs is an AI product company and ERP provider based in the UAE, building production-ready SaaS platforms and autonomous AI systems from the ground up. Every product ships with AI built in — not bolted on. The company is operated by SKILLTECH EDUCATION AND TRAINING COMPUTER SOFTWARE L.L.C.
+
+Skilltech Labs builds infrastructure-level software that replaces entire workflows — not just automates tasks. Products span enterprise resource planning, business automation, ecommerce, fleet management, HR and payroll, applicant tracking, fintech, career tools, and parental monitoring.
+
+The company has two flagship platform products: SkillTech ERP (a live, multi-tenant HR and payroll platform with UAE WPS compliance) and AI OS (a fully autonomous AI-powered business operating system with ten specialized agents).
+
+## Products
+
+- [SkillTech ERP](https://erp.skilltechlabs.com): Live, production-ready multi-tenant HR and payroll ERP. UAE WPS compliant. Features include attendance tracking, leave management, WPS-compliant payroll processing, PDF payslip generation, bulk employee import, department and designation management, role-based access control, multi-company support, and a super admin panel. Built for UAE, GCC, India, and Pakistan. 14-day free trial available at erp.skilltechlabs.com/register. Powered by FastAPI, PostgreSQL, Redis, and Celery.
+
+- [AI OS](https://skilltechlabs.com/products/ai-os): Fully autonomous AI-powered business operating system. Ten AI agents — Orchestrator, Research, Strategy, Content, Technical, Design, Execution, Analyst, Optimization, and Memory — replacing marketing, sales, leads, CRM, research, operations, and account management teams. Runs 24/7 with zero salaries and zero human error on repetitive tasks.
+
+- [CVBuddy](https://skilltechlabs.com/products/cvbuddy): WhatsApp-based AI CV generation system powered by Claude AI. Users upload their old CV or provide details conversationally and receive a polished, professional CV instantly. No subscriptions — pay per result.
+
+- [Ecommerce Engine](https://skilltechlabs.com/products/ecommerce-engine): Production-ready single-tenant ecommerce platform. Launch a full online store in minutes by providing store details. Fully integrated with local shipping agents for automated last-mile delivery. Includes WhatsApp shopping (browse, choose variants, pay, and get delivered entirely inside WhatsApp), AI product search and chat, secure checkout, and complete policy pages. Live tenant: shop.millco.in
+
+- [FleetScan](https://skilltechlabs.com/products/fleetscan): Multi-tenant car rental SaaS platform. Bookings, fleet tracking, vehicle management, and smart operational insights in one system.
+
+- [CardFlow](https://skilltechlabs.com/products/cardflow): Multi-POS transaction management SaaS for businesses running multiple payment points simultaneously. One dashboard for every POS, every transaction, every location — with automated reconciliation and ledgering.
+
+- [Recruitment ATS](https://skilltechlabs.com/products/recruitment-ats): Scalable multi-tenant applicant tracking system. Track every applicant across the full recruitment pipeline. Built to scale with any recruitment operation.
+
+- [AngelEye](https://skilltechlabs.com/products/angeleye): Parental monitoring platform for tracking and protecting children's digital activity. Full monitoring capabilities built from scratch.
+
+- [WhatsApp English](https://skilltechlabs.com/products/whatsapp-english): Hybrid AI-powered English learning system delivered entirely through WhatsApp. No app to install. Designed for real people, built for real results.
+
+## Company
+
+- [Homepage](https://skilltechlabs.com): Company overview, all products, vision, and contact
+- [SkillTech ERP](https://erp.skilltechlabs.com): Live HR and payroll ERP — start free trial
+- [Contact](mailto:hello@skilltechlabs.com): hello@skilltechlabs.com
+
+## Key Facts
+
+- 9 products built from scratch, all production-ready
+- AI integrated into every product — not as an add-on
+- SkillTech ERP is live with 14-day free trial at erp.skilltechlabs.com
+- UAE WPS compliant payroll — built for UAE, GCC, India, and Pakistan
+- Based in UAE — SKILLTECH EDUCATION AND TRAINING COMPUTER SOFTWARE L.L.C
+- Specializes in WhatsApp-native product delivery and autonomous agentic systems
+- Live ecommerce tenant: shop.millco.in (organic food products, Kerala, India)
+- Two platform-level products: SkillTech ERP (business infrastructure) and AI OS (AI automation)
+
+## Technical Capabilities
+
+- Multi-tenant SaaS architecture with strict tenant isolation
+- Autonomous agentic AI systems (10-agent orchestration)
+- WhatsApp-native commerce and service delivery
+- UAE WPS and GCC payroll compliance
+- Event-driven architecture with background job processing
+- RBAC and ABAC access control systems
+- Regional compliance: UAE, GCC, India, Pakistan
